@@ -1,11 +1,22 @@
 {
-    "name": "conifer",
-    "displayName": "Conifer",
-    "description": "",
+    "name": "conifer-theme",
+    "displayName": "Conifer Theme",
+    "description": "Another theme for the weary eyes",
     "version": "0.0.1",
+    "publisher": "imalbert",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/imalbert/conifer-vscode-theme.git"
+    },
     "engines": {
         "vscode": "^1.57.0"
     },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "conifer",
+        "green"
+    ],
     "categories": [
         "Themes"
     ],

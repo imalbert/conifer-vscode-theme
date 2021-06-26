@@ -1,5 +1,8 @@
-# README
-## This is the README for your extension "conifer"
+# The Conifer Theme
+
+Another theme for the weary eyes
+
+![tsx file](images/tsx-file.jpg)
 
 ```js
 // main
