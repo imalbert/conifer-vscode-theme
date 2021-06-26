@@ -1,10 +1,19 @@
 # README
 ## This is the README for your extension "conifer"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+```js
+// main
+#8BC191
+// secondary
+#6D8571
+// accent
+#A59F5D
+
+// background
+#292929
+// foreground, string & primitives
+#A7BEB1
+```
 
 ### For more information
 * [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
