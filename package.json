@@ -1,0 +1,21 @@
+{
+    "name": "conifer",
+    "displayName": "Conifer",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Conifer Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Conifer Theme-color-theme.json"
+            }
+        ]
+    }
+}
