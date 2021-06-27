@@ -682,11 +682,12 @@
 			"name": "Markdown - Heading",
 			"scope": [
 				"markdown.heading",
+				"markup.heading.markdown",
 				"markup.heading | markup.heading entity.name",
 				"markup.heading.markdown punctuation.definition.heading.markdown"
 			],
 			"settings": {
-				"foreground": "#777777"
+				"foreground": "#8BC191"
 			}
 		},
 		{
@@ -815,7 +816,7 @@
 				"punctuation.section.class.end"
 			],
 			"settings": {
-				"foreground": "#E9DCC6"
+				"foreground": "#6D8571"
 			}
 		},
 		{
@@ -843,7 +844,7 @@
 				"markup.table"
 			],
 			"settings": {
-				"foreground": "#E9DCC6"
+				"foreground": "#6D8571"
 			}
 		}
 	]
