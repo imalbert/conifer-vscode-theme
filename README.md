@@ -1,4 +1,4 @@
-# The Conifer Theme
+# Conifer Theme
 
 Another theme for the weary eyes
 
