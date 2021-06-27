@@ -1,5 +1,5 @@
 {
-	"name": "Conifer Dark Theme",
+	"name": "Conifer Theme",
 	"type": "dark",
 	"colors": {
 		"activityBar.background": "#292929",
@@ -157,11 +157,11 @@
 		"statusBar.border": "#29292960",
 		"statusBar.debuggingBackground": "#A7BEB1",
 		"statusBar.debuggingForeground": "#A7BEB1",
-		"statusBar.foreground": "#292929",
+		"statusBar.foreground": "#A7BEB1",
 		"statusBar.noFolderBackground": "#292929",
 		"statusBarItem.hoverBackground": "#A7BEB120",
 		"statusBarItem.remoteBackground": "#A7BEB1",
-		"statusBarItem.remoteForeground": "#292929",
+		"statusBarItem.remoteForeground": "#A7BEB1",
 		"tab.activeBackground": "#29292950",
 		"tab.activeBorder": "#A7BEB1",
 		"tab.activeForeground": "#A7BEB1",
