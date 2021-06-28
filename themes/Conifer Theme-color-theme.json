@@ -436,7 +436,7 @@
 				"variable.other.class.js"
 			],
 			"settings": {
-				"foreground": "#C1918B"
+				"foreground": "#8BC191"
 			}
 		},
 		{
@@ -446,7 +446,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#C1918B"
+				"foreground": "#8BC191"
 			}
 		},
 		{
