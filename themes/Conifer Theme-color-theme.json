@@ -179,7 +179,7 @@
 		"tab.unfocusedInactiveForeground": "#A7BEB17f",
 		"terminal.ansiBlack": "#292929",
 		"terminal.ansiBlue": "#A7BEB1",
-		"terminal.ansiBrightBlack": "#A7BEB1",
+		"terminal.ansiBrightBlack": "#6D8571",
 		"terminal.ansiBrightBlue": "#A7BEB1",
 		"terminal.ansiBrightCyan": "#A7BEB1",
 		"terminal.ansiBrightGreen": "#A7BEB1",
@@ -188,7 +188,7 @@
 		"terminal.ansiBrightWhite": "#A7BEB1",
 		"terminal.ansiBrightYellow": "#A59F5D",
 		"terminal.ansiCyan": "#A59F5D",
-		"terminal.ansiGreen": "#6D8571",
+		"terminal.ansiGreen": "#8BC191",
 		"terminal.ansiMagenta": "#c18bbb",
 		"terminal.ansiRed": "#c1918b",
 		"terminal.ansiWhite": "#A7BEB1",
@@ -682,11 +682,12 @@
 			"name": "Markdown - Heading",
 			"scope": [
 				"markdown.heading",
+				"markup.heading.markdown",
 				"markup.heading | markup.heading entity.name",
 				"markup.heading.markdown punctuation.definition.heading.markdown"
 			],
 			"settings": {
-				"foreground": "#777777"
+				"foreground": "#8BC191"
 			}
 		},
 		{
@@ -815,7 +816,7 @@
 				"punctuation.section.class.end"
 			],
 			"settings": {
-				"foreground": "#E9DCC6"
+				"foreground": "#6D8571"
 			}
 		},
 		{
@@ -843,7 +844,7 @@
 				"markup.table"
 			],
 			"settings": {
-				"foreground": "#E9DCC6"
+				"foreground": "#6D8571"
 			}
 		}
 	]
