@@ -229,7 +229,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#A7BEB1"
+				"foreground": "#6D8571"
 			}
 		},
 		{
@@ -237,7 +237,7 @@
 			"scope": [
 				"variable",
 				"string constant.other.placeholder",
-				"constant.other.caps.python"
+				" constant.other.caps.python"
 			],
 			"settings": {
 				"foreground": "#A59F5D"
