@@ -5,7 +5,7 @@ Another theme for the weary eyes
 ![tsx file](images/tsx-file.jpg)
 
 ```js
-// main
+// primary
 #8BC191
 // secondary
 #6D8571
