@@ -21,6 +21,7 @@
 		"diffEditor.removedTextBackground": "#A7BEB120",
 		"dropdown.background": "#292929",
 		"dropdown.border": "#A7BEB110",
+		"dropdown.listBackground": "#292929",
 		"editor.background": "#292929",
 		"editor.findMatchBackground": "#6D857130",
 		"editor.findMatchBorder": "#6D857100",
@@ -76,15 +77,16 @@
 		"gitDecoration.ignoredResourceForeground": "#A7BEB1",
 		"gitDecoration.modifiedResourceForeground": "#A7BEB1",
 		"gitDecoration.untrackedResourceForeground": "#A7BEB1",
+		"icon.foreground": "#A7BEB1",
 		"input.background": "#292929",
 		"input.border": "#A7BEB110",
 		"input.foreground": "#A7BEB1",
 		"input.placeholderForeground": "#A7BEB160",
 		"inputOption.activeBackground": "#A7BEB130",
 		"inputOption.activeBorder": "#A7BEB130",
-		"inputValidation.errorBorder": "#A7BEB150",
-		"inputValidation.infoBorder": "#A7BEB150",
-		"inputValidation.warningBorder": "#A7BEB150",
+		"inputValidation.errorBorder": "#c1918b",
+		"inputValidation.infoBorder": "#A7BEB1",
+		"inputValidation.warningBorder": "#A59F5D",
 		"list.activeSelectionBackground": "#292929",
 		"list.activeSelectionForeground": "#A7BEB1",
 		"list.focusBackground": "#292929",
@@ -115,16 +117,29 @@
 		"minimapSlider.activeBackground": "#A7BEB1b0",
 		"minimapSlider.background": "#A7BEB180",
 		"minimapSlider.hoverBackground": "#A7BEB1a0",
+		"minimap.errorHighlight": "#c1918b",
 		"notificationLink.foreground": "#A7BEB1",
+		"notificationCenter.border": "#A7BEB130",
+		"notificationCenterHeader.foreground": "#A7BEB1",
+		"notificationCenterHeader.background": "#292929",
+		"notificationToast.border": "#A7BEB130",
 		"notifications.background": "#292929",
 		"notifications.foreground": "#A7BEB1",
+		"notifications.border": "#A7BEB130",
+		"notificationsErrorIcon.foreground": "#A7BEB1",
+		"notificationsWarningIcon.foreground": "#A7BEB1",
+		"notificationsInfoIcon.foreground": "#A7BEB1",
 		"panel.background": "#292929",
-		"panel.border": "#29292960",
+		"panel.border": "#A7BEB130",
 		"panelTitle.activeBorder": "#A7BEB1",
 		"panelTitle.activeForeground": "#A7BEB1",
 		"panelTitle.inactiveForeground": "#A7BEB1",
-		"peekView.border": "#29292930",
-		"peekViewEditor.background": "#A7BEB105",
+		"peekViewResult.fileForeground": "#A7BEB1",
+		"peekViewResult.lineForeground": "#A7BEB1",
+		"peekViewResult.selectionForeground": "#A7BEB1",
+		"peekViewTitleLabel.foreground": "#A7BEB1",
+		"peekView.border": "#A7BEB130",
+		"peekViewEditor.background": "#29292905",
 		"peekViewEditor.matchHighlightBackground": "#A7BEB150",
 		"peekViewEditorGutter.background": "#A7BEB105",
 		"peekViewResult.background": "#A7BEB105",
@@ -150,14 +165,14 @@
 		"settings.textInputBackground": "#292929",
 		"settings.textInputForeground": "#A7BEB1",
 		"sideBar.background": "#292929",
-		"sideBar.border": "#A7BEB150",
+		"sideBar.border": "#A7BEB130",
 		"sideBar.foreground": "#A7BEB1",
 		"sideBarSectionHeader.background": "#292929",
-		"sideBarSectionHeader.border": "#29292960",
+		"sideBarSectionHeader.border": "#A7BEB130",
 		"sideBarSectionHeader.foreground": "#A7BEB1",
 		"sideBarTitle.foreground": "#A7BEB1",
 		"statusBar.background": "#292929",
-		"statusBar.border": "#29292960",
+		"statusBar.border": "#A7BEB130",
 		"statusBar.debuggingBackground": "#A7BEB1",
 		"statusBar.debuggingForeground": "#A7BEB1",
 		"statusBar.foreground": "#A7BEB1",
@@ -195,15 +210,15 @@
 		"terminal.ansiYellow": "#A59F5D",
 		"terminalCursor.background": "#292929",
 		"terminalCursor.foreground": "#A7BEB1",
-		"textLink.activeForeground": "#A7BEB1",
-		"textLink.foreground": "#A7BEB1",
+		"textLink.activeForeground": "#A59F5D",
+		"textLink.foreground": "#A59F5D",
 		"titleBar.activeBackground": "#292929",
 		"titleBar.activeForeground": "#A7BEB1",
-		"titleBar.border": "#29292960",
+		"titleBar.border": "#A7BEB160",
 		"titleBar.inactiveBackground": "#292929",
 		"titleBar.inactiveForeground": "#A7BEB1",
 		"tree.indentGuidesStroke": "#292929",
-		"widget.shadow": "#29292930",
+		"widget.shadow": "#292929",
 	},
 	"tokenColors": [
 		{
@@ -214,14 +229,15 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#A7BEB1"
+				"foreground": "#6D8571"
 			}
 		},
 		{
 			"name": "Variables",
 			"scope": [
 				"variable",
-				"string constant.other.placeholder"
+				"string constant.other.placeholder",
+				" constant.other.caps.python"
 			],
 			"settings": {
 				"foreground": "#A59F5D"
@@ -421,7 +437,7 @@
 				"variable.other.class.js"
 			],
 			"settings": {
-				"foreground": "#C1918B"
+				"foreground": "#8BC191"
 			}
 		},
 		{
@@ -431,7 +447,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#C1918B"
+				"foreground": "#8BC191"
 			}
 		},
 		{
