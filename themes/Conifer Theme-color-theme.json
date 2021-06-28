@@ -123,11 +123,10 @@
 		"panelTitle.activeBorder": "#A7BEB1",
 		"panelTitle.activeForeground": "#A7BEB1",
 		"panelTitle.inactiveForeground": "#A7BEB1",
-		"peekViewEditor.matchHighlightBorder": "#ff0000",
-		"peekViewResult.fileForeground": "#ff0000",
-		"peekViewResult.lineForeground": "#ff0000",
-		"peekViewResult.selectionForeground": "#ff0000",
-		"peekViewTitleLabel.foreground": "#ff0000",
+		"peekViewResult.fileForeground": "#A7BEB1",
+		"peekViewResult.lineForeground": "#A7BEB1",
+		"peekViewResult.selectionForeground": "#A7BEB1",
+		"peekViewTitleLabel.foreground": "#A7BEB1",
 		"peekView.border": "#A7BEB130",
 		"peekViewEditor.background": "#29292905",
 		"peekViewEditor.matchHighlightBackground": "#A7BEB150",
@@ -248,7 +247,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#ff0000"
+				"foreground": "#C1918B"
 			}
 		},
 		{
