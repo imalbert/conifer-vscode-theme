@@ -218,6 +218,9 @@
 		"titleBar.inactiveBackground": "#292929",
 		"titleBar.inactiveForeground": "#A7BEB1",
 		"tree.indentGuidesStroke": "#292929",
+		"quickInputList.focusBackground": "#A7BEB115",
+		"quickInputList.focusForeground": "#A7BEB1",
+		"quickInputTitle.background": "#292929",
 		"widget.shadow": "#292929",
 	},
 	"tokenColors": [
