@@ -345,7 +345,9 @@
 			"name": "Block Level Variables",
 			"scope": [
 				"variable.other.readwrite.alias",
-				"variable.other.readwrite"
+				"variable.other.readwrite",
+				"source.python",
+				"support.type.exception.python"
 			],
 			"settings": {
 				"foreground": "#8BC191"
@@ -371,7 +373,8 @@
 				"constant.escape",
 				"variable.parameter",
 				"keyword.other.unit",
-				"keyword.other"
+				"keyword.other",
+				"support.type.python",
 			],
 			"settings": {
 				"foreground": "#A59F5D"
