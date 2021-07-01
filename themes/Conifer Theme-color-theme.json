@@ -357,6 +357,7 @@
 			"name": "Other Variable, String Link",
 			"scope": [
 				"support.other.variable",
+				"meta.property-value.css",
 				"string.other.link"
 			],
 			"settings": {
@@ -420,7 +421,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#99A55D"
 			}
 		},
 		{
@@ -431,10 +432,10 @@
 				"source.scss support.type.property-name",
 				"source.less support.type.property-name",
 				"source.stylus support.type.property-name",
-				"source.postcss support.type.property-name"
+				"source.postcss support.type.property-name",
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#99A55D"
 			}
 		},
 		{
