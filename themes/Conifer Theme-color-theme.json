@@ -281,6 +281,7 @@
 			"name": "Operator, Misc",
 			"scope": [
 				"keyword.control",
+				"keyword.other.import.dart",
 				"constant.other.color",
 				"punctuation",
 				"meta.tag",
@@ -319,7 +320,8 @@
 				"meta.function-call",
 				"variable.function",
 				"support.function",
-				"keyword.other.special-method"
+				"keyword.other.special-method",
+				"meta.method-call.groovy",
 			],
 			"settings": {
 				"foreground": "#A59F5D"
@@ -350,7 +352,10 @@
 				"variable.other.readwrite.alias",
 				"variable.other.readwrite",
 				"source.python",
-				"support.type.exception.python"
+				"support.type.exception.python",
+				"source.go",
+				"source.swift",
+				"source.groovy",
 			],
 			"settings": {
 				"foreground": "#8BC191"
@@ -436,6 +441,7 @@
 				"source.less support.type.property-name",
 				"source.stylus support.type.property-name",
 				"source.postcss support.type.property-name",
+				"source.dart",
 			],
 			"settings": {
 				"foreground": "#99A55D"
@@ -485,7 +491,7 @@
 		{
 			"name": "Attributes",
 			"scope": [
-				"entity.other.attribute-name"
+				"entity.other.attribute-name",
 			],
 			"settings": {
 				"foreground": "#6D8571"
