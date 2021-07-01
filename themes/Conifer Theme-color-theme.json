@@ -294,6 +294,8 @@
 				"keyword.other.substitution",
 				"meta.brace.round",
 				"meta.brace.square",
+				"meta.brace.curly.litobj.js",
+				"meta.delimiter.comma.js"
 			],
 			"settings": {
 				"foreground": "#6D8571"
@@ -335,7 +337,8 @@
 		{
 			"name": "Object Literal",
 			"scope": [
-				"meta.object-literal.key"
+				"meta.object-literal.key",
+				"string.unquoted.js",
 			],
 			"settings": {
 				"foreground": "#99a55d"	
