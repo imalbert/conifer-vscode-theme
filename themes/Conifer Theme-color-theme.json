@@ -330,7 +330,6 @@
 			"scope": [
 				"entity.name.tag",
 				"meta.tag.sgml",
-				"meta.block",
 				"markup.deleted.git_gutter",
 				"entity.name.function",
 			],
@@ -513,21 +512,15 @@
 			}
 		},
 		{
-			"name": "CSS Classes",
+			"name": "CSS selectors",
 			"scope": [
-				"entity.other.attribute-name.class"
+				"entity.other.attribute-name.class",
+				"entity.other.attribute-name.id.css",
+				"punctuation.definition.entity.css",
+				"punctuation.definition.keyword.css",
 			],
 			"settings": {
-				"foreground": "#8BC191"
-			}
-		},
-		{
-			"name": "CSS ID's",
-			"scope": [
-				"source.sass keyword.control"
-			],
-			"settings": {
-				"foreground": "#A59F5D"
+				"foreground": "#A7BEB1"
 			}
 		},
 		{
