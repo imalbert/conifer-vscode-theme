@@ -2,8 +2,6 @@
 
 Another VSCode theme for the weary eyes 👀
 
-![tsx file](images/tsx-file.jpg)
-
 # Palette
 
 | Scope | Color | Hex |
@@ -33,3 +31,10 @@ Another VSCode theme for the weary eyes 👀
 | Magenta | ![#C18BBB](https://via.placeholder.com/35/C18BBB/?text=+) | #C18BBB | 
 
 **Enjoy!**
+
+---
+
+![tsx](images/tsx.jpg)
+![js](images/tsx.jpg)
+![html](images/html.jpg)
+![css](images/css.jpg)
