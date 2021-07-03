@@ -314,9 +314,10 @@
 				"punctuation.section.embedded",
 				"keyword.other.template",
 				"keyword.other.substitution",
+				"meta.brace.curly.js",
+				"meta.brace.curly.litobj.js",
 				"meta.brace.round",
 				"meta.brace.square",
-				"meta.brace.curly.litobj.js",
 				"meta.delimiter.comma.js"
 			],
 			"settings": {
