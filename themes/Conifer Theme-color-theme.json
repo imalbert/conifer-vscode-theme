@@ -331,6 +331,7 @@
 				"meta.tag.sgml",
 				"markup.deleted.git_gutter",
 				"entity.name.function",
+				"support.function",
 			],
 			"settings": {
 				"foreground": "#8BC191"
@@ -341,7 +342,6 @@
 			"scope": [
 				"meta.function-call",
 				"variable.function",
-				"support.function",
 				"keyword.other.special-method",
 				"meta.method-call.groovy",
 			],
@@ -446,21 +446,7 @@
 				"support.type",
 				"entity.name.type",
 				"support.type.primitive",
-				"support.type.builtin"
-			],
-			"settings": {
-				"foreground": "#99A55D"
-			}
-		},
-		{
-			"name": "CSS Class and Support",
-			"scope": [
-				"source.css support.type.property-name",
-				"source.sass support.type.property-name",
-				"source.scss support.type.property-name",
-				"source.less support.type.property-name",
-				"source.stylus support.type.property-name",
-				"source.postcss support.type.property-name",
+				"support.type.builtin",
 				"source.dart",
 			],
 			"settings": {
@@ -511,11 +497,12 @@
 			}
 		},
 		{
-			"name": "CSS selectors",
+			"name": "CSS selectors, at-rules, support functions",
 			"scope": [
 				"entity.other.attribute-name.class",
 				"entity.other.attribute-name.css",
 				"entity.other.attribute-name.id.css",
+				"entity.other.keyframe-offset.css",
 				"entity.other.keyframe-offset.percentage.css",
 				"keyword.control.at-rule.css",
 				"keyword.control.at-rule.keyframes.css",
@@ -525,6 +512,31 @@
 			],
 			"settings": {
 				"foreground": "#8BC191"
+			}
+		},
+		{
+			"name": "CSS Class and Support",
+			"scope": [
+				"source.css support.type.property-name",
+				"source.sass support.type.property-name",
+				"source.scss support.type.property-name",
+				"source.less support.type.property-name",
+				"source.stylus support.type.property-name",
+				"source.postcss support.type.property-name",
+			],
+			"settings": {
+				"foreground": "#99A55D"
+			}
+		},
+		{
+			"name": "CSS values",
+			"scope": [
+				"meta.property-value.css",
+				"constant.other.color.rgb-value.hex.css",
+				"punctuation.definition.constant.css"
+			],
+			"settings": {
+				"foreground": "#A59F5D"
 			}
 		},
 		{
