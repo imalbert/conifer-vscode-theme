@@ -530,7 +530,7 @@
 			}
 		},
 		{
-			"name": "CSS values",
+			"name": "CSS values and variables",
 			"scope": [
 				"constant.other.color.rgb-value.hex.css",
 				"meta.at-rule.charset.css",
@@ -538,6 +538,8 @@
 				"meta.at-rule.media.header.css",
 				"meta.property-value.css",
 				"punctuation.definition.constant.css",
+				"variable.other.less",
+				"variable.scss"
 			],
 			"settings": {
 				"foreground": "#A59F5D"
