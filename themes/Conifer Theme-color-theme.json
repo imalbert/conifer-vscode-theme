@@ -507,6 +507,7 @@
 				"keyword.control.at-rule.css",
 				"keyword.control.at-rule.keyframes.css",
 				"keyword.control.at-rule.header.css",
+				"keyword.control.at-rule.media.css",
 				"punctuation.definition.entity.css",
 				"punctuation.definition.keyword.css",
 			],
@@ -531,9 +532,10 @@
 		{
 			"name": "CSS values",
 			"scope": [
-				"meta.property-value.css",
 				"constant.other.color.rgb-value.hex.css",
-				"punctuation.definition.constant.css"
+				"meta.at-rule.media.header.css",
+				"meta.property-value.css",
+				"punctuation.definition.constant.css",
 			],
 			"settings": {
 				"foreground": "#A59F5D"
