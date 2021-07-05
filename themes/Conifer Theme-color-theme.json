@@ -514,12 +514,17 @@
 			"name": "CSS selectors",
 			"scope": [
 				"entity.other.attribute-name.class",
+				"entity.other.attribute-name.css",
 				"entity.other.attribute-name.id.css",
+				"entity.other.keyframe-offset.percentage.css",
+				"keyword.control.at-rule.css",
+				"keyword.control.at-rule.keyframes.css",
+				"keyword.control.at-rule.header.css",
 				"punctuation.definition.entity.css",
 				"punctuation.definition.keyword.css",
 			],
 			"settings": {
-				"foreground": "#A7BEB1"
+				"foreground": "#8BC191"
 			}
 		},
 		{
