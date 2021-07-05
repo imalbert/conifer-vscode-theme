@@ -533,6 +533,8 @@
 			"name": "CSS values",
 			"scope": [
 				"constant.other.color.rgb-value.hex.css",
+				"meta.at-rule.charset.css",
+				"meta.at-rule.font-face.css",
 				"meta.at-rule.media.header.css",
 				"meta.property-value.css",
 				"punctuation.definition.constant.css",
