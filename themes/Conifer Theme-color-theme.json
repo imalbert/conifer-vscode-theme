@@ -538,6 +538,7 @@
 				"meta.at-rule.media.header.css",
 				"meta.property-value.css",
 				"punctuation.definition.constant.css",
+				"punctuation.definition.variable.less",
 				"variable.other.less",
 				"variable.scss"
 			],
