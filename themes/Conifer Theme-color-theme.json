@@ -356,7 +356,7 @@
 				"string.unquoted.js",
 			],
 			"settings": {
-				"foreground": "#99a55d"	
+				"foreground": "#98B077"	
 			}
 		},
 		{
@@ -369,7 +369,7 @@
 				"source.groovy",
 			],
 			"settings": {
-				"foreground": "#99A55D"
+				"foreground": "#98B077"
 			}
 		},
 		{
@@ -451,7 +451,7 @@
 				"source.dart",
 			],
 			"settings": {
-				"foreground": "#99A55D"
+				"foreground": "#98B077"
 			}
 		},
 		{
@@ -465,7 +465,7 @@
 				"entity.other.block-attribute-name.vue"
 			],
 			"settings": {
-				"foreground": "#99A55D"
+				"foreground": "#98B077"
 			}
 		},
 		{
@@ -484,7 +484,7 @@
 				"entity.other.attribute-name",
 			],
 			"settings": {
-				"foreground": "#99A55D"
+				"foreground": "#98B077"
 			}
 		},
 		{
@@ -528,7 +528,7 @@
 				"source.postcss support.type.property-name",
 			],
 			"settings": {
-				"foreground": "#99A55D"
+				"foreground": "#98B077"
 			}
 		},
 		{
