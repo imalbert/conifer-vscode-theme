@@ -381,6 +381,7 @@
 				"meta.import",
 				"string.quoted.double",
 				"string.quoted.single",
+				"string.quoted.module.js",
 			],
 			"settings": {
 				"foreground": "#A59F5D"
@@ -460,7 +461,8 @@
 				"meta.property.object",
 				"variable.import.parameter.js",
 				"variable.other.property",
-				"variable.other.constant.property"
+				"variable.other.constant.property",
+				"entity.other.block-attribute-name.vue"
 			],
 			"settings": {
 				"foreground": "#99A55D"
@@ -579,7 +581,7 @@
 				"string.regexp"
 			],
 			"settings": {
-				"foreground": "#6D8571"
+				"foreground": "#A59F5D"
 			}
 		},
 		{
