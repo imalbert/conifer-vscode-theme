@@ -444,8 +444,9 @@
 		{
 			"name": "Primitives, Entity Types",
 			"scope": [
-				"support.type",
 				"entity.name.type",
+				"entity.other.inherited-class.tsx",
+				"support.type",
 				"support.type.primitive",
 				"support.type.builtin",
 				"source.dart",
@@ -458,11 +459,13 @@
 			"name": "Sub-methods, Properties",
 			"scope": [
 				"entity.name.module.js",
+				"entity.other.block-attribute-name.vue",
 				"meta.property.object",
+				"meta.object.member",
+				"support.variable.property.ts",
 				"variable.import.parameter.js",
 				"variable.other.property",
 				"variable.other.constant.property",
-				"entity.other.block-attribute-name.vue"
 			],
 			"settings": {
 				"foreground": "#98B077"
