@@ -299,7 +299,7 @@
 			}
 		},
 		{
-			"name": "Operator, Misc",
+			"name": "Operator, Punctuation, Misc",
 			"scope": [
 				"keyword.control",
 				"keyword.other.import.dart",
@@ -318,7 +318,8 @@
 				"meta.brace.curly.litobj.js",
 				"meta.brace.round",
 				"meta.brace.square",
-				"meta.delimiter.comma.js"
+				"meta.delimiter.comma.js",
+				"constant.character.format.placeholder.other.python",
 			],
 			"settings": {
 				"foreground": "#6D8571"
@@ -336,6 +337,7 @@
 				"meta.method-call.groovy",
 				"variable.function",
 				"keyword.other.special-method",
+				"entity.name.type.class.python",
 			],
 			"settings": {
 				"foreground": "#8BC191"
@@ -380,7 +382,7 @@
 			}
 		},
 		{
-			"name": "Variable, Constant, Function Argument, Parameter, Variable",
+			"name": "Variable, Constant, Function Argument, Parameter",
 			"scope": [
 				"constant.other.caps.python",
 				"constant.numeric",
@@ -437,6 +439,7 @@
 			"scope": [
 				"entity.name.type",
 				"entity.other.inherited-class.tsx",
+				"entity.other.inherited-class.python",
 				"support.type",
 				"support.type.python",
 				"support.type.primitive",

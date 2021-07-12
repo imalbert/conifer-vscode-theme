@@ -38,3 +38,5 @@ Another VSCode theme for the weary eyes 👀
 ![js](images/tsx.jpg)
 ![html](images/html.jpg)
 ![css](images/css.jpg)
+
+<!-- [![Open repo in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/imalbert/conifer-vscode-theme) -->
