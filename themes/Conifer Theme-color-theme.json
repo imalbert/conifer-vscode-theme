@@ -332,21 +332,13 @@
 				"markup.deleted.git_gutter",
 				"entity.name.function",
 				"support.function",
+				"meta.function-call",
+				"meta.method-call.groovy",
+				"variable.function",
+				"keyword.other.special-method",
 			],
 			"settings": {
 				"foreground": "#8BC191"
-			}
-		},
-		{
-			"name": "Function, Special Method",
-			"scope": [
-				"meta.function-call",
-				"variable.function",
-				"keyword.other.special-method",
-				"meta.method-call.groovy",
-			],
-			"settings": {
-				"foreground": "#A59F5D"
 			}
 		},
 		{
