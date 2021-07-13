@@ -320,6 +320,8 @@
 				"meta.brace.square",
 				"meta.delimiter.comma.js",
 				"constant.character.format.placeholder.other.python",
+				"punctuation.definition.arguments.begin.python",
+				"punctuation.definition.arguments.end.python",
 			],
 			"settings": {
 				"foreground": "#6D8571"
@@ -397,6 +399,7 @@
 				"variable",
 				"variable.parameter",
 				"variable.other.class.js",
+				"meta.function-call.arguments.python",
 			],
 			"settings": {
 				"foreground": "#A59F5D"
@@ -461,6 +464,7 @@
 				"variable.import.parameter.js",
 				"variable.other.property",
 				"variable.other.constant.property",
+				"constant.character.format.placeholder.other.python",
 			],
 			"settings": {
 				"foreground": "#98B077"
