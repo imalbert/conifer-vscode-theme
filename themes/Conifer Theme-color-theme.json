@@ -622,6 +622,7 @@
 				"punctuation.decorator.tsx",
 				"meta.decorator.ts",
 				"meta.decorator.tsx",
+				"punctuation.definition.decorator.python",
 			],
 			"settings": {
 				"fontStyle": "italic",
