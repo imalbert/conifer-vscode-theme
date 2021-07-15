@@ -255,20 +255,6 @@
 			}
 		},
 		{
-			"name": "Variables",
-			"scope": [
-				"variable",
-				"variable.parameter",
-				"string constant.other.placeholder",
-				"constant.other.caps.python",
-				"meta.block variable.other",
-				"variable.other.object",
-			],
-			"settings": {
-				"foreground": "#A59F5D"
-			}
-		},
-		{
 			"name": "Colors",
 			"scope": [
 				"constant.other.color"
@@ -306,6 +292,8 @@
 				"constant.other.color",
 				"punctuation",
 				"meta.tag",
+				"text.html.derivative",
+				"meta.embedded.block.vue-html",
 				"punctuation.definition.tag",
 				"punctuation.separator.inheritance.php",
 				"punctuation.definition.tag.html",
@@ -340,6 +328,7 @@
 				"variable.function",
 				"keyword.other.special-method",
 				"entity.name.type.class.python",
+				"entity.other.inherited-class.ts",
 			],
 			"settings": {
 				"foreground": "#8BC191"
@@ -378,6 +367,7 @@
 				"string.quoted.double",
 				"string.quoted.single",
 				"string.quoted.module.js",
+				"string.template.ts",
 			],
 			"settings": {
 				"foreground": "#A59F5D"
@@ -395,11 +385,20 @@
 				"keyword.other.unit",
 				"meta.block variable.other",
 				"string constant.other.placeholder",
-				"support.constant",
-				"variable",
 				"variable.parameter",
 				"variable.other.class.js",
 				"meta.function-call.arguments.python",
+				"string constant.other.placeholder",
+				"variable.other.object",
+				"meta.method-call.with-arguments.js",
+				"source.js",
+				"source.ts",
+				"variable.other.constant.ts",
+				"variable.object.property.ts",
+				"meta.array.literal.ts",
+				"meta.object.member",
+				"meta.export.default.tsx",
+				"meta.export.default.ts",
 			],
 			"settings": {
 				"foreground": "#A59F5D"
@@ -425,8 +424,11 @@
 			"name": "Class, Support",
 			"scope": [
 				"entity.name",
+				"meta.class.ts",
+				"meta.class.js",
 				"support.type",
 				"support.class",
+				"support.constant",
 				"support.other.namespace.use.php",
 				"meta.use.php",
 				"support.other.namespace.php",
@@ -440,7 +442,10 @@
 		{
 			"name": "Primitives, Entity Types",
 			"scope": [
-				"entity.name.type",
+				"entity.name.type.ts",
+				"entity.name.type.tsx",
+				"entity.name.type.module.tsx",
+				"entity.name.type.module.ts",
 				"entity.other.inherited-class.tsx",
 				"entity.other.inherited-class.python",
 				"support.type",
@@ -456,15 +461,15 @@
 		{
 			"name": "Sub-methods, Properties",
 			"scope": [
+				"constant.character.format.placeholder.other.python",
 				"entity.name.module.js",
 				"entity.other.block-attribute-name.vue",
 				"meta.property.object",
-				"meta.object.member",
 				"support.variable.property.ts",
 				"variable.import.parameter.js",
-				"variable.other.property",
 				"variable.other.constant.property",
-				"constant.character.format.placeholder.other.python",
+				"variable.other.object.property.ts",
+				"variable.other.property",
 			],
 			"settings": {
 				"foreground": "#98B077"
@@ -512,6 +517,7 @@
 				"keyword.control.at-rule.keyframes.css",
 				"keyword.control.at-rule.header.css",
 				"keyword.control.at-rule.media.css",
+				"keyword.control.at-rule.font-face.css",
 				"punctuation.definition.entity.css",
 				"punctuation.definition.keyword.css",
 			],
@@ -611,11 +617,15 @@
 			"name": "Decorators",
 			"scope": [
 				"tag.decorator.js entity.name.tag.js",
-				"tag.decorator.js punctuation.definition.tag.js"
+				"tag.decorator.js punctuation.definition.tag.js",
+				"punctuation.decorator.ts",
+				"punctuation.decorator.tsx",
+				"meta.decorator.ts",
+				"meta.decorator.tsx",
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#A59F5D"
+				"foreground": "#8BC191"
 			}
 		},
 		{
