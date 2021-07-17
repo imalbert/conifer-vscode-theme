@@ -39,4 +39,4 @@ Another VSCode theme for the weary eyes 👀
 ![html](images/html.jpg)
 ![css](images/css.jpg)
 
-<!-- [![Open repo in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/imalbert/conifer-vscode-theme) -->
+[![Open repo in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/imalbert/conifer-vscode-theme)

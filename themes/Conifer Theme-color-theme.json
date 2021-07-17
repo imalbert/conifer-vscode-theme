@@ -475,6 +475,7 @@
 				"variable.import.parameter.js",
 				"variable.other.constant.property",
 				"variable.other.object.property.ts",
+				"variable.other.object.property.tsx",
 				"variable.other.property",
 			],
 			"settings": {
