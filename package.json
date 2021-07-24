@@ -16,7 +16,12 @@
         "theme",
         "dark theme",
         "conifer",
-        "green"
+        "pine",
+        "cone",
+        "pine cone",
+        "green",
+        "saturated",
+        "muted"
     ],
     "categories": [
         "Themes"
@@ -24,9 +29,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Conifer Theme",
+                "label": "Conifer",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Conifer Theme-color-theme.json"
+                "path": "./themes/conifer-color-theme.json"
+            },
+            {
+                "label": "Pine Cone",
+                "uiTheme": "vs-dark",
+                "path": "./themes/pine-cone-color-theme.json"
             }
         ]
     }
