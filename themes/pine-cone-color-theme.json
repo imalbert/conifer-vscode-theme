@@ -112,7 +112,7 @@
     "editorSuggestWidget.foreground": "#f0e7d1",
     "editorSuggestWidget.focusHighlightForeground": "#D6BE81",
     "editorSuggestWidget.highlightForeground": "#D6BE81",
-    "editorSuggestWidget.selectedBackground": "#B6B691",
+    "editorSuggestWidget.selectedBackground": "#B6B69122",
     "editorSuggestWidget.selectedForeground": "#f0e7d1",
     "extensionButton.prominentForeground": "#f0e7d1",
     "extensionButton.prominentBackground": "#B6B691",
