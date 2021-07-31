@@ -42,6 +42,11 @@
                 "label": "Pine Needle",
                 "uiTheme": "vs-dark",
                 "path": "./themes/pine-needle-color-theme.json"
+            },
+            {
+                "label": "Mist",
+                "uiTheme": "vs-dark",
+                "path": "./themes/mist-color-theme.json"
             }
         ]
     }
