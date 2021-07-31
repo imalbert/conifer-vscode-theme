@@ -37,6 +37,11 @@
                 "label": "Pine Cone",
                 "uiTheme": "vs-dark",
                 "path": "./themes/pine-cone-color-theme.json"
+            },
+            {
+                "label": "Pine Needle",
+                "uiTheme": "vs-dark",
+                "path": "./themes/pine-needle-color-theme.json"
             }
         ]
     }
