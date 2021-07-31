@@ -47,6 +47,11 @@
                 "label": "Mist",
                 "uiTheme": "vs-dark",
                 "path": "./themes/mist-color-theme.json"
+            },
+            {
+                "label": "Evergreen",
+                "uiTheme": "vs-dark",
+                "path": "./themes/evergreen-color-theme.json"
             }
         ]
     }
