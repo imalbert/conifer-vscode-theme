@@ -1,8 +1,19 @@
-## Conifer Theme
+## Conifer Themes
 
-Another VSCode theme for the weary eyes 👀
+VSCode themes for the weary eyes 👀
 
-# Palette
+1. Conifer
+2. Pine Cone
+3. Pine Needle
+4. Mist
+5. Evergreen
+
+![tsx](images/tsx.jpg)
+![js](images/tsx.jpg)
+![html](images/html.jpg)
+![css](images/css.jpg)
+
+## Palette
 
 | Scope | Color | Hex |
 | ----- | ----- | --- |
@@ -14,7 +25,7 @@ Another VSCode theme for the weary eyes 👀
 | Accent | ![#8BC191](https://via.placeholder.com/35/8BC191/?text=+) | #8BC191 | 
 | Accent | ![#C1918B](https://via.placeholder.com/35/C1918B/?text=+) | #C1918B | 
 
-## Syntax
+### Syntax
 
 | Scope | Color | Hex |
 | ----- | ----- | --- |
@@ -24,19 +35,12 @@ Another VSCode theme for the weary eyes 👀
 | Attribute, Property, Type | ![#98B077](https://via.placeholder.com/35/98B077/?text=+) | #98B077 | 
 | Variable, Param, String, Primitive/Value, Link | ![#A59F5D](https://via.placeholder.com/35/A59F5D/?text=+) | #A59F5D | 
 
-## Terminal-specific
+### Terminal-specific
 
 | Scope | Color | Hex |
 | ----- | ----- | --- |
 | Magenta | ![#C18BBB](https://via.placeholder.com/35/C18BBB/?text=+) | #C18BBB | 
 
 **Enjoy!**
-
----
-
-![tsx](images/tsx.jpg)
-![js](images/tsx.jpg)
-![html](images/html.jpg)
-![css](images/css.jpg)
 
 [Open repo in Visual Studio Code](https://open.vscode.dev/imalbert/conifer-vscode-theme)
