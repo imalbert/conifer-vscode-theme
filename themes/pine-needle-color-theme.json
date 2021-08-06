@@ -130,7 +130,7 @@
     "input.foreground": "#ECECD5",
     "input.placeholderForeground": "#ECECD599",
     "input.border": "#2E352C",
-    "inputOption.activeBackground": "#D3D9D3",
+    "inputOption.activeBackground": "#88998522",
     "inputOption.activeBorder": "#D3D9D3",
     "inputOption.activeForeground": "#ebdfc1",
     "inputValidation.errorBackground": "#A96E55",
