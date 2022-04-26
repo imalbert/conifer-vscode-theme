@@ -64,6 +64,7 @@
     "editor.inlineValuesForeground": "#9FDCD5",
     "editor.selectionBackground": "#95A8B122",
     "editor.selectionHighlightBackground": "#95A8B122",
+    "editor.stackFrameHighlightBackground": "#95A8B122",
     "editor.rangeHighlightBackground": "#95A8B122",
     "editor.wordHighlightBackground": "#95A8B122",
     "editor.wordHighlightStrongBackground": "#95A8B122",
