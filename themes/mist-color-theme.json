@@ -357,14 +357,14 @@
       "name": "Entity Name Tag",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#95A8B1"
+        "foreground": "#6AC8BF"
       }
     },
     {
       "name": "Entity Other Attribute Name",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#6AC8BF"
+        "foreground": "#57B2B0"
       }
     },
     {
@@ -447,7 +447,11 @@
     },
     {
       "name": "Punctuation",
-      "scope": "punctuation",
+      "scope": [
+        "punctuation",
+        "meta.brace.round",
+        "meta.brace.square",
+      ],
       "settings": {
         "foreground": "#9FDCD5"
       }
@@ -965,6 +969,18 @@
       ],
       "settings": {
         "foreground": "#9FDCD5"
+      }
+    },
+    {
+      "name": "[JSX] Punctuations",
+      "scope": [
+        "punctuation.definition.tag",
+        "keyword.operator.assignment",
+        "punctuation.section.embedded.begin",
+        "punctuation.section.embedded.end",
+      ],
+      "settings": {
+        "foreground": "#95A8B1B3"
       }
     },
     {
