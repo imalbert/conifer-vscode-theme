@@ -300,7 +300,7 @@
       "name": "Comment",
       "scope": "comment",
       "settings": {
-        "foreground": "#BDD1C8"
+        "foreground": "#95B1A7B3"
       }
     },
     {
@@ -481,7 +481,7 @@
         "punctuation.start.definition.comment"
       ],
       "settings": {
-        "foreground": "#BDD1C8"
+        "foreground": "#95B1A7B3"
       }
     },
     {
