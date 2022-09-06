@@ -277,8 +277,9 @@
 			"name": "Keyword, Storage",
 			"scope": [
 				"keyword",
+				"keyword.control",
 				"storage.type",
-				"storage.modifier"
+				"storage.modifier",
 			],
 			"settings": {
 				"foreground": "#6D8571"
@@ -287,12 +288,9 @@
 		{
 			"name": "Operator, Punctuation, Misc",
 			"scope": [
-				"keyword.control",
 				"keyword.other.import.dart",
 				"constant.other.color",
 				"punctuation",
-				"meta.tag",
-				"text.html.derivative",
 				"meta.embedded.block.vue-html",
 				"punctuation.definition.tag",
 				"punctuation.separator.inheritance.php",
@@ -404,6 +402,8 @@
 				"variable.other.object",
 				"variable.other.constant",
 				"variable.object.property",
+				"meta.tag",
+				"text.html.derivative",
 			],
 			"settings": {
 				"foreground": "#A59F5D"
